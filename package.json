@@ -1,0 +1,17 @@
+{
+  "name": "instgram-private-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "instagram-private-api": "^1.45.3",
+    "luxon": "^2.3.1"
+  }
+}
